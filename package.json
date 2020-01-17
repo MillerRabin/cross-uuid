@@ -1,0 +1,28 @@
+{
+  "name": "cross-uuid",
+  "version": "1.0.0",
+  "description": "cross environment uuid",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "node ./node_modules/intention-builder/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MillerRabin/cross-uuid.git"
+  },
+  "keywords": [
+    "uuid",
+    "nodejs",
+    "browser"
+  ],
+  "author": "millerrabin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MillerRabin/cross-uuid/issues"
+  },
+  "homepage": "https://github.com/MillerRabin/cross-uuid#readme",
+  "devDependencies": {
+    "intention-builder": "0.0.8"
+  }
+}

@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublishOnly": "node ./node_modules/intention-builder/main.js"
+    "prepublishOnly": "node ./node_modules/node-module-converter/main.js"
   },
   "repository": {
     "type": "git",

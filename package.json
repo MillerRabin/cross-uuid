@@ -22,7 +22,8 @@
     "url": "https://github.com/MillerRabin/cross-uuid/issues"
   },
   "homepage": "https://github.com/MillerRabin/cross-uuid#readme",
-  "devDependencies": {
-    "intention-builder": "0.0.8"
+  "devDependencies": {},
+  "dependencies": {
+    "node-module-converter": "^1.0.0"
   }
 }
